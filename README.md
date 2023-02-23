@@ -10,7 +10,8 @@ I am a frontend developer
 ## 🛠  Technologies and tools
 <img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" /> 
 
-
+# testing things
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=theendercore&show_icons=true&theme=transparent)
 
 
 <!--
