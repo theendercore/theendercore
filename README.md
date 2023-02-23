@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm Ender (Robert)
-I am a frontend developer
+I am a front-end developer
 
 
 - 📫 How to reach me: theendercore@gmail.com || roberts.alsbergs@gmail.com
@@ -12,6 +12,9 @@ I am a frontend developer
 
 # testing things
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=theendercore)](https://github.com/anuraghazra/github-readme-stats)
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 <!--
 - 🔭 I’m currently working on ...
