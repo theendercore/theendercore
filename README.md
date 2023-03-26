@@ -16,7 +16,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=theendercore&show_icons=true&locale=en&theme=transparent"alt="theendercore" /></p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-149%20hrs%2022%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-152%20hrs%2015%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -58,5 +58,5 @@ Linux                    18 hrs 58 mins      ███████████�
 ```
 
 
- Last Updated on 25/03/2023 18:38:48 UTC
+ Last Updated on 26/03/2023 18:38:58 UTC
 <!--END_SECTION:waka-->
