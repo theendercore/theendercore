@@ -16,11 +16,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Kotlin                 10 hrs 38 mins  ███████████████████████▓░   94.12 %
-textmate               20 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.05 %
-Text                   11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.68 %
-JSON                   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 %
-Sqlite Database File   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 %
+Kotlin                4 hrs 39 mins   ████████████████████████░   96.58 %
+Text                  9 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 %
+GitIgnore file        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+Properties            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+Mixin Configuration   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
