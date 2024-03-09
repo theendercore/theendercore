@@ -16,11 +16,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Kotlin                7 hrs 31 mins   █████████████████████▓░░░   86.53 %
-Java                  46 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.93 %
-Java Properties       11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.20 %
-CSS                   3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.73 %
-Mixin Configuration   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 %
+Kotlin                6 hrs 30 mins   ████████████████████▓░░░░   82.87 %
+Java                  1 hr            ███▒░░░░░░░░░░░░░░░░░░░░░   12.93 %
+Java Properties       11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.41 %
+Mixin Configuration   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 %
+Groovy                2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 %
 ```
 
 <!--END_SECTION:waka-->
