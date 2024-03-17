@@ -16,7 +16,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Kotlin            3 mins          █████░░░░░░░░░░░░░░░░░░░░   19.66 %
+JSON              3 mins          ████▓░░░░░░░░░░░░░░░░░░░░   19.15 %
+INI               2 mins          ████▒░░░░░░░░░░░░░░░░░░░░   16.90 %
+GitIgnore file    2 mins          ████░░░░░░░░░░░░░░░░░░░░░   16.45 %
+Text              2 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.85 %
 ```
 
 <!--END_SECTION:waka-->
