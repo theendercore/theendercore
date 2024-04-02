@@ -16,11 +16,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Kotlin                33 hrs 41 mins  █████████████████▒░░░░░░░   69.83 %
-TypeScript            7 hrs 37 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.79 %
-TOML                  1 hr 8 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.37 %
-Java                  1 hr 6 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.29 %
-SqlDelight            49 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.69 %
+Kotlin                31 hrs 12 mins  ██████████████████▓░░░░░░   74.12 %
+TypeScript            3 hrs 23 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.05 %
+JavaScript            1 hr 26 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.43 %
+TOML                  1 hr 8 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.71 %
+SqlDelight            49 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.94 %
 ```
 
 <!--END_SECTION:waka-->
