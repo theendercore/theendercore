@@ -16,11 +16,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Kotlin                     1 hr 32 mins    ███████████████████▓░░░░░   78.04 %
-TOML                       14 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.05 %
-SourceMap                  5 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.07 %
-Java                       5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 %
-JavaScript                 0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
