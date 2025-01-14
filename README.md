@@ -16,7 +16,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Kotlin                     1 hr 29 mins    █████████████████▒░░░░░░░   69.85 %
+Java                       16 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.24 %
+textmate                   13 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.66 %
+GLSL shader                4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.29 %
+V shell                    3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.83 %
 ```
 
 <!--END_SECTION:waka-->
