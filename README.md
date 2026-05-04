@@ -5,7 +5,7 @@
 
 
 <h3 align="left">Languages:</h3>
-Kotlin my Beloved <3
+Kotlin my Beloved <3 <br>
 But I also work with: Java, Groovy, TypeScript, JavaScript
 
 <!--START_SECTION:waka-->
