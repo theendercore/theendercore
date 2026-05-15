@@ -11,11 +11,11 @@ But I also work with: Java, Groovy, TypeScript, JavaScript
 <!--START_SECTION:waka-->
 
 ```txt
-Java                       15 hrs 35 mins        ███████████████████▓░░░░░   78.18 %
-Glsl File                  1 hr 28 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.41 %
-JSON                       1 hr 6 mins           █▒░░░░░░░░░░░░░░░░░░░░░░░   05.57 %
-TOML                       29 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.50 %
-GitIgnore file             27 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.33 %
+Java                       10 hrs 49 mins        ██████████████████░░░░░░░   72.58 %
+Glsl File                  1 hr 28 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.91 %
+JSON                       59 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.68 %
+TOML                       28 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.17 %
+GitIgnore file             27 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.12 %
 ```
 
 <!--END_SECTION:waka-->
