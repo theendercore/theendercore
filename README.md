@@ -11,7 +11,11 @@ But I also work with: Java, Groovy, TypeScript, JavaScript
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown   0 secs                █████████████████████████   100.00 %
+Java         11 mins               ███████████████████████░░   91.50 %
+Markdown     0 secs                ██░░░░░░░░░░░░░░░░░░░░░░░   08.25 %
+Gradle       0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
+Properties   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
+TOML         0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
 <!--END_SECTION:waka-->
