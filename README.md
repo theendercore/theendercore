@@ -11,11 +11,11 @@ But I also work with: Java, Groovy, TypeScript, JavaScript
 <!--START_SECTION:waka-->
 
 ```txt
-Kotlin                     37 hrs 47 mins        █████████████████████▓░░░   86.53 %
-Java                       3 hrs 49 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.74 %
-JSON                       1 hr 41 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.88 %
-textmate                   9 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 %
-Mixin Json Configuration   4 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
+Kotlin                     44 hrs 22 mins        ██████████████████████░░░   88.03 %
+Java                       3 hrs 47 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.51 %
+JSON                       1 hr 47 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.55 %
+textmate                   9 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
+TOML                       8 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
 ```
 
 <!--END_SECTION:waka-->
