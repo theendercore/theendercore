@@ -11,11 +11,11 @@ But I also work with: Java, Groovy, TypeScript, JavaScript
 <!--START_SECTION:waka-->
 
 ```txt
-Kotlin                     13 hrs 15 mins        ████████████████▓░░░░░░░░   67.15 %
-Java                       3 hrs 35 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.23 %
-TOML                       38 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.25 %
-Gradle                     36 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.10 %
-textmate                   20 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.73 %
+Kotlin                     16 hrs 31 mins        ████████████████▒░░░░░░░░   65.17 %
+Java                       5 hrs 17 mins         █████▒░░░░░░░░░░░░░░░░░░░   20.87 %
+TOML                       50 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.31 %
+Gradle                     33 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.17 %
+Properties                 31 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.04 %
 ```
 
 <!--END_SECTION:waka-->
